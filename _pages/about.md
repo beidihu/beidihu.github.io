@@ -6,7 +6,7 @@ subtitle: (pronounced *BAY-dee HOO*).
 
 profile:
   align: right
-  image: Hu_Beidi_retouched.jpg
+  image: Hu_Beidi_retouched.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Harper 338</p>
