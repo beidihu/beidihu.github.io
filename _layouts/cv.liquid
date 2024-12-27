@@ -3,15 +3,13 @@ layout: default
 ---
 {% unless site.data.resume %}
   <div class="post">
-
     <article>
-      <object
+      <embed
         type="application/pdf"
-        data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
-        width="600"
-        height="700"
+        src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+        width="100%"
+        height="100%"
       >
-      </object>
     </article>
   </div>
 {% endunless %}
