@@ -4,12 +4,11 @@ layout: default
 {% unless site.data.resume %}
   <div class="post">
     <article>
-      <embed
-        type="application/pdf"
+      <iframe
         src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
         width="100%"
         height="100%"
-      >
+      > </iframe>
     </article>
   </div>
 {% endunless %}
