@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/Beidi-Hu-websiteCV-Dec2024.pdf";
           },
         },{id: "post-a-post-with-image-galleries",
       
