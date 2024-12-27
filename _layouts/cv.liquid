@@ -2,7 +2,8 @@
 layout: default
 ---
 {% unless site.data.resume %}
-<header class="post-header">
+  <div class="post">
+    <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
         {% if page.cv_pdf %}
@@ -19,7 +20,7 @@ layout: default
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
     </header>
-  <div class="post">
+
     <article>
       <iframe
         src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
@@ -29,3 +30,4 @@ layout: default
     </article>
   </div>
 {% endunless %}
+
