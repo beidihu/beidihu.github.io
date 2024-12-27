@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (pronounced *BAY-dee HOO*).
+subtitle: (pronounced BAY-dee HOO).
 
 profile:
   align: right
