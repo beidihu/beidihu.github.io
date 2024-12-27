@@ -26,5 +26,3 @@ I am broadly interested in consumer behavior and judgment and decision-making, i
 I received my Ph.D. in Decision Processes at the Wharton School, University of Pennsylvania. Prior to my doctoral studies, I earned my B.A. summa cum laude in Philosophy, Politics, and Economics from the University of Pennsylvania. 
 
 Get in touch at [beidi.hu@chicagobooth.edu](mailto:beidi.hu@chicagobooth.edu).
-
-Elsewhere online: [Booth faculty profile](https://www.chicagobooth.edu/faculty/directory/h/beidi-hu) / [Google Scholar](https://scholar.google.com/citations?user=4BCsBRIAAAAJ&hl=en) / [LinkedIn](http://www.linkedin.com/in/beidihu)
