@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Hello!
+I am an Assistant Professor of Marketing at the University of Chicago Booth School of Business. 
+I am broadly interested in consumer behavior and judgment and decision-making, in particular, how consumers and marketers make decisions under uncertainty. Thus far, I have sought to shed light on questions like: How can we get overconfident consumers to better appreciate uncertainty and the possibility that they might be wrong? How should companies best communicate the inherent uncertainty in their services (e.g., delivery estimates provided by food delivery apps)? Do consumers more highly value a good that they acquire from an uncertain process (e.g., from a lottery)? 
+I received my Ph.D. in Decision Processes at the Wharton School, University of Pennsylvania. Prior to my doctoral studies, I earned my B.A. summa cum laude in Philosophy, Politics, and Economics from the University of Pennsylvania. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Get in touch at [beidi.hu@chicagobooth.edu](mailto:beidi.hu@chicagobooth.edu).
+Elsewhere online: [Booth faculty profile](https://www.chicagobooth.edu/faculty/directory/h/beidi-hu) / [Google Scholar](https://scholar.google.com/citations?user=4BCsBRIAAAAJ&hl=en) / [LinkedIn](http://www.linkedin.com/in/beidihu)
