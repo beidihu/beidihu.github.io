@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "publications in reversed chronological order. to see a full list of my working papers, please see my CV.",
+          description: "To see a full list of my working papers, please see my [CV](http://www.beidihu.com/assets/pdf/Beidi-Hu-websiteCV-Dec2024.pdf).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
