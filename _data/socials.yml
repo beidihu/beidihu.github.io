@@ -2,12 +2,16 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+email: beidi.hu@chicagobooth.edu # your email address
+work_url: https://www.chicagobooth.edu/faculty/directory/h/beidi-hu # work page URL
+scholar_userid: 4BCsBRIAAAAJ # your Google Scholar ID
+x_username: beidiwho # your X handle
+bluesky_url: https://bsky.app/profile/beidiwho.bsky.social # your bluesky URL
+linkedin_username: beidihu # your LinkedIn user name
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
-bluesky_url: https://bsky.app/profile/beidiwho.bsky.social # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: beidi.hu@chicagobooth.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -20,7 +24,6 @@ email: beidi.hu@chicagobooth.edu # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -30,7 +33,6 @@ email: beidi.hu@chicagobooth.edu # your email address
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
-scholar_userid: 4BCsBRIAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -41,8 +43,6 @@ scholar_userid: 4BCsBRIAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://www.chicagobooth.edu/faculty/directory/h/beidi-hu # work page URL
-x_username: beidiwho # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
