@@ -389,7 +389,7 @@ ninja.data = [{
           title: 'Our paper, “Different Methods Elicit Different Belief Distributions” (in collaboration with Joe Simmons,...',
           description: "",
           section: "News",},{id: "news-our-paper-how-should-time-estimates-be-structured-to-increase-customer-satisfaction-in-collaboration-with-celia-gaertig-and-berkeley-dietvorst-is-now-published-online-at-management-science-open-access-we-find-that-customers-judge-a-digital-platform-e-g-food-delivery-app-gps-app-more-positively-when-it-provides-time-estimates-as-ranges-rather-than-point-estimates",
-          title: 'Our paper, “How Should Time Estimates Be Structured to Increase Customer Satisfaction?”(in collaboration...',
+          title: 'Our paper, “How Should Time Estimates Be Structured to Increase Customer Satisfaction?” (in...',
           description: "",
           section: "News",},{id: "news-check-out-the-chicago-booth-review-article-late-deliveries-annoy-customers-but-don-t-have-to-featuring-our-paper-on-how-platforms-should-communicate-time-estimates-many-thanks-to-the-chicago-booth-review-team",
           title: 'Check out the Chicago Booth Review article “Late deliveries annoy customers… but don’t...',
