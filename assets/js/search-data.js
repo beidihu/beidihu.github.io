@@ -382,12 +382,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-our-paper-titled-different-methods-elicit-different-belief-distributions-in-collaboration-with-joe-simmons-part-of-my-dissertation-work-is-published-online-today-at-the-journal-of-experimental-psychology-general-journal-link-belief-distribution-elicitations-are-on-the-rise-across-disciplines-we-find-that-two-functionally-equivalent-methods-distribution-builder-and-sliders-elicit-different-belief-distributions",
+          title: 'Our paper titled “Different Methods Elicit Different Belief Distributions” (in collaboration with Joe...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-our-paper-titled-how-should-time-estimates-be-structured-to-increase-customer-satisfaction-in-collaboration-with-celia-gaertig-and-berkeley-dietvorst-is-published-online-today-at-management-science-open-access-link-we-find-that-customers-judge-a-digital-platform-e-g-food-delivery-app-gps-app-more-positively-when-it-provides-time-estimates-as-ranges-rather-than-point-estimates",
