@@ -26,4 +26,4 @@ I received my Ph.D. in [Decision Processes](https://oid.wharton.upenn.edu/progra
 
 Get in touch at [beidi.hu@chicagobooth.edu](mailto:beidi.hu@chicagobooth.edu).
 
-<sub>[^1]: I also sing. [SoundCloud](https://soundcloud.com/beidi-hu) · [Spotify](https://open.spotify.com/album/5vPsXkMGicoI45Jz8J9Qre)</sub>
+[^1]: <sub>I also sing. [SoundCloud](https://soundcloud.com/beidi-hu) · [Spotify](https://open.spotify.com/album/5vPsXkMGicoI45Jz8J9Qre)</sub>
