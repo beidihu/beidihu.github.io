@@ -382,7 +382,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-our-paper-titled-does-constructing-a-belief-distribution-truly-reduce-overconfidence-in-collaboration-with-joe-simmons-based-on-my-dissertation-work-is-published-online-today-at-the-journal-of-experimental-psychology-general-journal-link-ungated-link-past-work-says-yes-our-paper-finds-the-opposite",
+    },{id: "news-our-paper-titled-does-constructing-a-belief-distribution-truly-reduce-overconfidence-in-collaboration-with-joe-simmons-based-on-my-dissertation-work-is-now-published-online-at-the-journal-of-experimental-psychology-general-journal-link-ungated-link-past-work-says-yes-our-paper-finds-the-opposite",
           title: 'Our paper titled “Does Constructing a Belief Distribution Truly Reduce Overconfidence?” (in collaboration...',
           description: "",
           section: "News",},{id: "news-our-paper-titled-different-methods-elicit-different-belief-distributions-in-collaboration-with-joe-simmons-part-of-my-dissertation-work-is-published-online-today-at-the-journal-of-experimental-psychology-general-journal-link-ungated-link-belief-distribution-elicitations-are-on-the-rise-across-disciplines-we-find-that-two-functionally-equivalent-methods-distribution-builder-and-sliders-elicit-different-belief-distributions",
