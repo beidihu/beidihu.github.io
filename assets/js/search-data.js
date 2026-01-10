@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Beidi%20Hu%20website%20CV_251114.pdf";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
