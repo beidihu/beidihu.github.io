@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Beidi%20Hu%20website%20CV_251114.pdf";
           },
-        },{id: "nav-news",
-          title: "news",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -395,7 +388,7 @@ ninja.data = [{
           title: 'Check out the Chicago Booth Review article “Late deliveries annoy customers… but don’t...',
           description: "",
           section: "News",},{id: "news-our-paper-choice-set-size-neglect-in-predicting-others-preferences-in-collaboration-with-alice-moon-and-eric-vanepps-is-now-published-online-at-psychological-science-open-access-although-every-choice-comes-with-a-set-size-we-find-that-people-consistently-underestimate-how-it-influences-others-preferences-when-observing-their-choices",
-          title: 'Our paper, “Choice Set Size Neglect in Predicting Others’ Preferences”(in collaboration with Alice...',
+          title: 'Our paper, “Choice Set Size Neglect in Predicting Others’ Preferences” (in collaboration with...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
