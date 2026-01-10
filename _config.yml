@@ -10,7 +10,7 @@ contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Beidi Hu's personal website
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Special s/o to my husband <a href="https://bauer-research.net/" target="_blank">Dr. rer. nat. André Bauer</a> for sharing the website theme. 
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: beidi-hu, academic-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
