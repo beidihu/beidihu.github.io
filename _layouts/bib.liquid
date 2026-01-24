@@ -218,6 +218,9 @@
       {% if entry.ssrn %}
         <a href="{{ entry.ssrn }}" class="btn btn-sm z-depth-0" role="button">SSRN</a>
       {% endif %}
+      {% if entry.psycharchives %}
+        <a href="{{ entry.psycharchives }}" class="btn btn-sm z-depth-0" role="button">Psych Archives</a>
+      {% endif %}
       {% if entry.supp %}
         {% if entry.supp contains '://' %}
           <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
