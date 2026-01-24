@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: To see a full list of my working papers, please see my CV.
+title: research
 nav: true
 nav_order: 2
 ---
