@@ -263,6 +263,11 @@
     <div>
       &rarr; <em style="color: var(--global-theme-color)">{{entry.summary}}</em>
     </div>
+    {% if entry.conferences %}
+    <div>
+      &rarr; <em style="color: var(--global-theme-color)">{{entry.conferences}}</em>
+    </div>
+    {% endif %}
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}
