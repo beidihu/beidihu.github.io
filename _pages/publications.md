@@ -17,7 +17,7 @@ nav_order: 2
 </div>
 
 
-<h3> Peer-reviewed Journal Publications </h3>
+<h3 style="margin-top: 3rem"> Peer-reviewed Journal Publications </h3>
 
 <div class="publications">
 
