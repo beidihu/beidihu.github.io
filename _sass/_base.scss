@@ -750,10 +750,7 @@ footer.sticky-bottom {
           }
         }
 
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
+  
       }
 
       .title {
@@ -866,7 +863,7 @@ footer.sticky-bottom {
       border: dashed 1px var(--global-bg-color);
     }
     div.award.hidden.open {
-      border-color: var(--global-highlight-color);
+      border-color: var(--global-text-color);
     }
   }
 }
