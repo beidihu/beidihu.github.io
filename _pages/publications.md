@@ -12,8 +12,6 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 
-TEST 
-
 <div class="publications">
   {% bibliography --group_by none --query @*[selected=true]* %}
 </div>
