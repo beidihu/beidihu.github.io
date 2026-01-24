@@ -187,10 +187,8 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.award %}
-        <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
-        </a>
+      {% if entry.conferences %}
+        <a class="award btn btn-sm z-depth-0" role="button">Conferences</a>
       {% endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Full abstract</a>
@@ -266,11 +264,6 @@
     <div>
       &rarr; <em style="color: var(--global-theme-color)">{{entry.summary}}</em>
     </div>
-    {% if entry.conferences %}
-    <div>
-      &rarr; <em>{{entry.conferences}}</em>
-    </div>
-    {% endif %}
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}
@@ -356,10 +349,10 @@
       {% endif %}
     {% endif %}
 
-    {% if entry.award %}
+    {% if entry.conferences %}
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
-        <p>{{ entry.award | markdownify }}</p>
+        <p>{{ entry.conferences | markdownify }}</p>
       </div>
     {% endif %}
 
