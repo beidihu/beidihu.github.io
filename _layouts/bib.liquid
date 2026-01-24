@@ -176,6 +176,9 @@
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     <div class="periodical">
+      {% if entry.work == 'true' %}
+        Latest version: 
+      {% endif %}
       {{ periodical | strip }}
     </div>
     <div class="periodical">
