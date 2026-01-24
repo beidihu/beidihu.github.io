@@ -187,9 +187,7 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.conferences %}
-        <a class="award btn btn-sm z-depth-0" role="button">Conferences</a>
-      {% endif %}
+
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Full abstract</a>
       {% endif %}
@@ -242,6 +240,9 @@
       {% endif %}
       {% if entry.researchbox %}
         <a href="{{ entry.researchbox }}" class="btn btn-sm z-depth-0" role="button">ResearchBox</a>
+      {% endif %}
+      {% if entry.conferences %}
+        <a class="award btn btn-sm z-depth-0" role="button">Conferences</a>
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
