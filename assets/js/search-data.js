@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "",
+          description: "Much of my research examines the psychology underlying everyday consumer decisions. Each paper below is accompanied by a short blurb that highlights the core intuition behind the research. To read the full academic abstract, click on &quot;FULL ABSTRACT&quot;. If you are interested in a paper and can&#39;t access a copy, feel free to reach out.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
