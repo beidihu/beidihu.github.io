@@ -11,10 +11,14 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
+<h2 Ongoging Work </h2>
 
 <div class="publications">
   {% bibliography --group_by none --query @*[work=true]* %}
 </div>
+
+
+<h2> Peer-Reviewed Research</h2>
 
 <div class="publications">
 
