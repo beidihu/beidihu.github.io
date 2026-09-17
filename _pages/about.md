@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I am an [Assistant Professor of Marketing and Robert King Steel Faculty Fellow](https://www.chicagobooth.edu/faculty/directory/h/beidi-hu) at the [University of Chicago Booth School of Business](https://www.chicagobooth.edu/). 
 
-My research examines how people form and represent beliefs under uncertainty, and how these beliefs shape their judgments and decisions, with applications to consumer choices, forecasting, and managerial decision-making. My work has been published in various outlets, including <em>Journal of Experimental Psychology: General</em>, <em>Management Science</em>, and <em>Psychological Science</em>. Learn more about my research [here](https://www.beidihu.com/publications/). 
+My research examines how people form and represent beliefs under uncertainty, and how these beliefs shape their judgments and decisions, with applications to consumer choices, forecasting, and managerial decision-making. My work has been published in various outlets, including <em>Journal of Consumer Research</em>, <em>Journal of Experimental Psychology: General</em>, <em>Management Science</em>, and <em>Psychological Science</em>. Learn more about my research [here](https://www.beidihu.com/publications/). 
 
 At Booth, I teach Marketing Strategy to MBA students.
 
