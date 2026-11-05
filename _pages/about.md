@@ -6,7 +6,7 @@ subtitle: (pronounced BAY-dee HOO)
 
 profile:
   align: right
-  image: IMG_2578 2.JPG
+  image: Hu_B_034_retouched.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Chicago Booth School of Business</p>
