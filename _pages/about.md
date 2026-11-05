@@ -6,7 +6,7 @@ subtitle: (pronounced BAY-dee HOO)
 
 profile:
   align: right
-  image: Hu_Beidi_retouched.JPG
+  image: IMG_2578 2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Chicago Booth School of Business</p>
@@ -22,7 +22,7 @@ Hello! I am an [Assistant Professor of Marketing and Robert King Steel Faculty F
 
 My research examines how people form and represent beliefs under uncertainty, and how these beliefs shape their judgments and decisions, with applications to consumer choices, forecasting, and managerial decision-making. My work has been published in various outlets, including <em>Journal of Consumer Research</em>, <em>Journal of Experimental Psychology: General</em>, <em>Management Science</em>, and <em>Psychological Science</em>. Learn more about my research [here](https://www.beidihu.com/publications/). 
 
-At Booth, I teach Marketing Strategy to MBA students.
+At Booth, I teach Marketing Strategy to MBA students and undergraduate students.
 
 I received my Ph.D. in [Decision Processes](https://oid.wharton.upenn.edu/programs/phd/) at [the Wharton School](https://www.wharton.upenn.edu/), University of Pennsylvania. Prior to my doctoral studies, I earned my B.A. summa cum laude in [Philosophy, Politics, and Economics](https://ppe.sas.upenn.edu/) from the University of Pennsylvania. 
 
